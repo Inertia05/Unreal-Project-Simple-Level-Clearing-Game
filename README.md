@@ -9,3 +9,5 @@
 		•player can collect Health pack and power up for points
 		•player can be killed by NPC
 		•simple GFX for mortar/bullet and functional restart UI button when killed.
+
+Game download: https://drive.google.com/file/d/1kVo8mXliFE_PawvPmwBQ-YE1gNrSTquj/view?usp=sharing
